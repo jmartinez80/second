@@ -106,20 +106,20 @@ SERVER:"ROCK BALLDS 80S & 90S" src="http://diskokosmiko.mx/shimplex/va-greatest-
 SERVER:"VIDEO CLIPS" src="http://diskokosmiko.mx/trivianita/videoclip-2017-el-rockero-72075/list,1,10";
 ************************************************************************************************************************************
 
-Name:"DETECTIVE-CONAN-SERIE-COMPLETA" url:"http://diskokosmiko.mx/lokario1/detective-conan-serie-completa-14208" img:"https://images-na.ssl-images-amazon.com/images/I/71uHqHMGBdL.png"; :"http://diskokosmiko.mx"
-Name:"WALKER-RANGER-TEXAS SERIE-COMPLETA" url:"http://diskokosmiko.mx/lokario1/walker-ranger-texas-temp-12345678-9-13639" img:"https://images-na.ssl-images-amazon.com/images/I/71uHqHMGBdL.png"; :"http://diskokosmiko.mx"
-Name:"TWO AND A HALF-MEN-SERIE-COMPLETA" url:"http://diskokosmiko.mx/titotv/two-and-a-half-men-all-season-1259" img:"https://images-na.ssl-images-amazon.com/images/I/71uHqHMGBdL.png"; :"http://diskokosmiko.mx"
-Name:"PRISION-BREAK-SERIE-COMPLETA" url:"http://diskokosmiko.mx/lokario1/prision-break-temporadas-1234-23760" img:"https://images-na.ssl-images-amazon.com/images/I/71uHqHMGBdL.png"; :"http://diskokosmiko.mx"
-Name:"CHEERS-SERIE-COMPLETA" url:"http://diskokosmiko.mx/lokario1/cheers-temp-123456789-14518" img:"https://images-na.ssl-images-amazon.com/images/I/71uHqHMGBdL.png"; :"http://diskokosmiko.mx"
-Name:"CONOCI A VUESTRA-MADRE-SERIE-COMPLETA" url:"http://diskokosmiko.mx/lokario1/como-conoci-a-vuestra-madre-temp-456789-14497" img:"https://images-na.ssl-images-amazon.com/images/I/71uHqHMGBdL.png"; :"http://diskokosmiko.mx"
-Name:"FISICA-O-QUIMICA-SERIE-COMPLETA" url:"http://diskokosmiko.mx/lokario1/fisica-o-quimica-temp-1234567-14494" img:"https://images-na.ssl-images-amazon.com/images/I/71uHqHMGBdL.png"; :"http://diskokosmiko.mx"
-Name:"CUENTAME-COMO-PASO-SERIE-COMPLETA" url:"http://diskokosmiko.mx/lokario1/cuentame-como-paso-temp-1-14-14395" img:"https://images-na.ssl-images-amazon.com/images/I/71uHqHMGBdL.png"; :"http://diskokosmiko.mx"
-Name:"LOS-PROBLEMAS-CRECEN-SERIE-COMPLETA" url:"http://diskokosmiko.mx/lokario1/los-problemas-crecen-temporadas-12345-14387" img:"https://images-na.ssl-images-amazon.com/images/I/71uHqHMGBdL.png"; :"http://diskokosmiko.mx"
-Name:"EMBRUJADAS-t5678" url:"http://diskokosmiko.mx/lokario1/embrujadas-temporadas-5678-14600" img:"https://images-na.ssl-images-amazon.com/images/I/71uHqHMGBdL.png"; :"http://diskokosmiko.mx"
-Name:"AGUILA-ROJA-t12345" url:"http://diskokosmiko.mx/lokario1/aguila-roja-temporadas-12345-14585" img:"https://images-na.ssl-images-amazon.com/images/I/71uHqHMGBdL.png"; :"http://diskokosmiko.mx"
-Name:"LA-CASA-DE-LOS-LIOS" url:"http://diskokosmiko.mx/lokario1/la-casa-de-los-lios-14277" img:"https://images-na.ssl-images-amazon.com/images/I/71uHqHMGBdL.png"; :"http://diskokosmiko.mx"
-Name:"WHITNEY-t12" url:"http://diskokosmiko.mx/lokario1/whitney-temporadas-12-16615" img:"https://images-na.ssl-images-amazon.com/images/I/71uHqHMGBdL.png"; :"http://diskokosmiko.mx"
-Name:"UN-PASO-ADELANTE" url:"http://diskokosmiko.mx/lokario1/un-paso-adelante-14630" img:"https://images-na.ssl-images-amazon.com/images/I/71uHqHMGBdL.png"; :"http://diskokosmiko.mx"
+Name:"DETECTIVE-CONAN-SERIE-COMPLETA" url:"http://diskokosmiko.mx/lokario1/detective-conan-serie-completa-14208" img:"https://images-na.ssl-images-amazon.com/images/I/71uHqHMGBdL.png" server:"http://diskokosmiko.mx";
+Name:"WALKER-RANGER-TEXAS SERIE-COMPLETA" url:"http://diskokosmiko.mx/lokario1/walker-ranger-texas-temp-12345678-9-13639" img:"https://images-na.ssl-images-amazon.com/images/I/71uHqHMGBdL.png" server:"http://diskokosmiko.mx";
+Name:"TWO AND A HALF-MEN-SERIE-COMPLETA" url:"http://diskokosmiko.mx/titotv/two-and-a-half-men-all-season-1259" img:"https://images-na.ssl-images-amazon.com/images/I/71uHqHMGBdL.png" server:"http://diskokosmiko.mx";
+Name:"PRISION-BREAK-SERIE-COMPLETA" url:"http://diskokosmiko.mx/lokario1/prision-break-temporadas-1234-23760" img:"https://images-na.ssl-images-amazon.com/images/I/71uHqHMGBdL.png" server:"http://diskokosmiko.mx";
+Name:"CHEERS-SERIE-COMPLETA" url:"http://diskokosmiko.mx/lokario1/cheers-temp-123456789-14518" img:"https://images-na.ssl-images-amazon.com/images/I/71uHqHMGBdL.png" server:"http://diskokosmiko.mx";
+Name:"CONOCI A VUESTRA-MADRE-SERIE-COMPLETA" url:"http://diskokosmiko.mx/lokario1/como-conoci-a-vuestra-madre-temp-456789-14497" img:"https://images-na.ssl-images-amazon.com/images/I/71uHqHMGBdL.png" server:"http://diskokosmiko.mx";
+Name:"FISICA-O-QUIMICA-SERIE-COMPLETA" url:"http://diskokosmiko.mx/lokario1/fisica-o-quimica-temp-1234567-14494" img:"https://images-na.ssl-images-amazon.com/images/I/71uHqHMGBdL.png" server:"http://diskokosmiko.mx";
+Name:"CUENTAME-COMO-PASO-SERIE-COMPLETA" url:"http://diskokosmiko.mx/lokario1/cuentame-como-paso-temp-1-14-14395" img:"https://images-na.ssl-images-amazon.com/images/I/71uHqHMGBdL.png" server"http://diskokosmiko.mx";
+Name:"LOS-PROBLEMAS-CRECEN-SERIE-COMPLETA" url:"http://diskokosmiko.mx/lokario1/los-problemas-crecen-temporadas-12345-14387" img:"https://images-na.ssl-images-amazon.com/images/I/71uHqHMGBdL.png" server:"http://diskokosmiko.mx";
+Name:"EMBRUJADAS-t5678" url:"http://diskokosmiko.mx/lokario1/embrujadas-temporadas-5678-14600" img:"https://images-na.ssl-images-amazon.com/images/I/71uHqHMGBdL.png" server:"http://diskokosmiko.mx";
+Name:"AGUILA-ROJA-t12345" url:"http://diskokosmiko.mx/lokario1/aguila-roja-temporadas-12345-14585" img:"https://images-na.ssl-images-amazon.com/images/I/71uHqHMGBdL.png" server:"http://diskokosmiko.mx";
+Name:"LA-CASA-DE-LOS-LIOS" url:"http://diskokosmiko.mx/lokario1/la-casa-de-los-lios-14277" img:"https://images-na.ssl-images-amazon.com/images/I/71uHqHMGBdL.png" server:"http://diskokosmiko.mx";
+Name:"WHITNEY-t12" url:"http://diskokosmiko.mx/lokario1/whitney-temporadas-12-16615" img:"https://images-na.ssl-images-amazon.com/images/I/71uHqHMGBdL.png" server:"http://diskokosmiko.mx";
+Name:"UN-PASO-ADELANTE" url:"http://diskokosmiko.mx/lokario1/un-paso-adelante-14630" img:"https://images-na.ssl-images-amazon.com/images/I/71uHqHMGBdL.png" server:"http://diskokosmiko.mx";
 Name:"JUEGO DE TRONOS T2 " url:"http://diskokosmiko.mx/monnet/juego-de-tronos-serie-temporada-2-completa-27784/" img:"https://images-na.ssl-images-amazon.com/images/M/MV5BMjEwOTcxODc2Ml5BMl5BanBnXkFtZTgwMjMyMDk2MTI@._V1_SX300.jpg"; :"http://diskokosmiko.mx"
 Name:"ELEMENTARY-t4" url:"http://diskokosmiko.mx/SeriesHD/elementary-t4-43538" img:"https://images-na.ssl-images-amazon.com/images/I/71uHqHMGBdL.png"; :"http://diskokosmiko.mx"
 Name:"ELEMENTARY-t5" url:"http://diskokosmiko.mx/SeriesHD/elementary-t5-43482" img:"https://images-na.ssl-images-amazon.com/images/I/71uHqHMGBdL.png"; :"http://diskokosmiko.mx"
