@@ -1,0 +1,47 @@
+<dir>
+  <title>Cartoon Network</title>
+  <tmdb>network/shows/56</tmdb>
+    <thumbnail>https://s19.postimg.org/otlxerr7n/cartoon-network.png</thumbnail>
+</dir>
+
+<dir>
+  <title>Nickelodeon</title>
+  <tmdb>network/shows/13</tmdb>
+    <thumbnail></thumbnail>
+</dir>
+
+<dir>
+  <title>Nick Jr.</title>
+  <tmdb>network/shows/35</tmdb>
+    <thumbnail></thumbnail>
+</dir>
+
+<dir>
+  <title>Disney XD</title>
+  <tmdb>network/shows/44</tmdb>
+    <thumbnail></thumbnail>
+</dir>
+
+<dir>
+  <title>CITV</title>
+  <tmdb>network/shows/112</tmdb>
+    <thumbnail></thumbnail>
+</dir>
+
+<dir>
+  <title>Disney Channel</title>
+  <tmdb>network/shows/54</tmdb>
+    <thumbnail></thumbnail>
+</dir>
+
+<dir>
+  <title>CBeebies</title>
+  <tmdb>network/shows/166</tmdb>
+    <thumbnail>https://s19.postimg.org/5eb5lnxxf/cbeebies.png</thumbnail>
+</dir>
+
+<dir>
+  <title>Disney Jr.</title>
+  <tmdb>network/shows/281</tmdb>
+    <thumbnail>https://s19.postimg.org/n2p4825j7/disney-jr.png</thumbnail>
+</dir>
