@@ -35,13 +35,25 @@
 </dir>
 
 <dir>
-  <title>CBeebies</title>
+  <title>CBEEBIES</title>
   <tmdb>network/shows/166</tmdb>
     <thumbnail>https://s19.postimg.org/5eb5lnxxf/cbeebies.png</thumbnail>
 </dir>
+
+<plugin>
+<title>CBEEBIES Shows[COLORyellow] Requires iPlayer Plugin...[/COLOR]</title>
+<link>plugin://plugin.video.bbciplayer/?IPID&amp;description&amp;iconimage=special://home%5caddons%5cplugin.video.bbciplayer%5cimg%5ciplay.jpg&amp;mode=7&amp;name=CBeebies&amp;url=http%3a%2f%2fwww.bbc.co.uk%2f%2ftv%2fcbeebies%2fa-z&quot;,return)</link>
+<thumbnail></thumbnail>
+</plugin>
 
 <dir>
   <title>Disney Jr.</title>
   <tmdb>network/shows/281</tmdb>
     <thumbnail>https://s19.postimg.org/n2p4825j7/disney-jr.png</thumbnail>
 </dir>
+
+<plugin>
+<title>CBBC Shows[COLORyellow] Requires iPlayer Plugin...[/COLOR]</title>
+<link>plugin://plugin.video.bbciplayer/?IPID&amp;description&amp;iconimage=special://home%5caddons%5cplugin.video.bbciplayer%5cimg%5ciplay.jpg&amp;mode=7&amp;name=CBBC&amp;url=http%3a%2f%2fwww.bbc.co.uk%2f%2ftv%2fcbbc%2fa-z&quot;,return)</link>
+<thumbnail></thumbnail>
+</plugin>
